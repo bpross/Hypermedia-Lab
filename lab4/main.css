@@ -1,0 +1,25 @@
+
+p{font-family:"Times New Roman", Times, serif;}
+
+.flight
+{
+    font-family:Verdana, sanserif;
+    font-weight:bold;
+}
+
+.departure
+{
+    font-family:Verdana, sanserif;
+    color:green;
+}
+
+.arrival
+{
+    font-family:Verdana, sanserif;
+    color:yellow;
+}
+
+#SpecialWarning
+{
+color:red;
+}
